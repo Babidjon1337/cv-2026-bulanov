@@ -1,0 +1,18 @@
+metric,value
+variant,3
+n_files,806
+n_breeds,4
+n_cat_breeds,2
+n_dog_breeds,2
+n_cat_images,404
+n_dog_images,402
+width_min,194
+width_median,500.0
+width_max,1200
+height_min,196
+height_median,375.0
+height_max,900
+n_non_rgb,0
+n_jpg_not_jpeg,0
+n_with_xml,404
+breed_counts,British_Shorthair: 202; Russian_Blue: 202; beagle: 202; leonberger: 200
